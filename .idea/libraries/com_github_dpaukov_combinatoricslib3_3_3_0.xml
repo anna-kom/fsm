@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.dpaukov:combinatoricslib3:3.3.0" type="repository">
+    <properties maven-id="com.github.dpaukov:combinatoricslib3:3.3.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/dpaukov/combinatoricslib3/3.3.0/combinatoricslib3-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
